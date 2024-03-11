@@ -1,0 +1,30 @@
+.hill-cart {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-image {
+  height: 300px;
+}
+
+.dim {
+  width: 80vw;
+  padding: 10px;
+}
+
+.button2 {
+  background-color: blue;
+  height: 50px;
+  width: 80px;
+}
+
+.button2:hover {
+  background-color: palevioletred;
+}
+
+.price2{
+  color: aquamarine;
+}

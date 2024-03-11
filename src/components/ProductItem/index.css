@@ -1,0 +1,58 @@
+.each_item {
+  display: flex;
+  border: solid;
+  width: 80vw;
+  border-width: 0px;
+  border-color: black;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+
+.img {
+  height: 180px;
+}
+
+.link-tag {
+  color: black;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.img:hover {
+  height: 220px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.sub-container {
+  margin: 20px;
+  width: 400px;
+}
+
+.button {
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 5px;
+  height: 50px;
+  width: 80px;
+}
+
+.button:hover {
+  background-color: green;
+}
+
+.rate {
+  color: palevioletred;
+  background-color: rgb(47, 255, 127);
+  width: 60px;
+  text-align: center;
+  height: 30px;
+}

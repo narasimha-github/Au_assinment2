@@ -1,0 +1,16 @@
+.header {
+  min-width: 100vw;
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-heading{
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 40px;
+}
